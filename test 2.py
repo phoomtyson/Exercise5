@@ -3,6 +3,7 @@ a=0
 b=0
 for i in range (12):
     for j in range
+    if (j+1)%2==1:
         a= a+1
     else :
         b = b+1
